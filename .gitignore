@@ -109,3 +109,6 @@ venv.bak/
 # output files
 *_vcs.json
 versionCode.log
+
+# vim
+*.swp
